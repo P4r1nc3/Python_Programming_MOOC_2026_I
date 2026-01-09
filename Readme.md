@@ -1,6 +1,6 @@
 # Python Programming 1 MOOC University of Helsinki
  
-This is the first part of the [University of Helsinki’s free massive open online course (MOOC) on Python Programming](https://programming-25.mooc.fi).
+This is the first part of the [University of Helsinki’s free massive open online course (MOOC) on Python Programming](https://programming-26.mooc.fi).
 The course is split up into two individual courses: *Introduction to Programming* and *Advanced Course in Programming*. Each course consists of seven parts, each with its own exercise set.
 
 -------------------------------------------------------------------
